@@ -1,0 +1,14 @@
+layout_spectrum: 1
+color:
+  saturation: 0.1115477
+  brandStrength: 1
+  lightness: 0.5125697
+  rhythmicContrast: 0.8192824
+  brandColors:
+    - '#E0FBFC'
+    - '#C2DFE3'
+    - '#9DB4C0'
+    - '#5C6B73'
+    - '#253237'
+typography_spectrum: 0.3333333
+name: ChitChatChai™
